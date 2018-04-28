@@ -1,0 +1,6 @@
+[package]
+name = "koperatiff-query-api"
+version = "0.1.0"
+authors = ["Berkan <yavrib@gmail.com>"]
+
+[dependencies]
